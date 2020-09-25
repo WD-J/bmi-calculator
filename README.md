@@ -1,4 +1,4 @@
-# BMI Calculator 💪
+# BMI Calculator
 
 Customising Flutter Widgets to achieve beautiful user interface designs.
 
