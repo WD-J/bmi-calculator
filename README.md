@@ -16,7 +16,3 @@ Customising Flutter Widgets to achieve beautiful user interface designs.
 - Understand Dart Enums and the Ternary Operator.
 - Learn about composition vs. inheritance and the Flutter way of creating custom UI.
 - Understand the difference between const and final in Dart and when to use each.
-
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp.
